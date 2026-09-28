@@ -9,6 +9,9 @@ CLEAR defines how AI systems should handle context, capabilities, uncertainty, e
 - **CLEAR-v1.0.md** - the authoritative v1.0 framework
 - **QUICK-REFERENCE.md** - one-page operational reference
 - **INVOKE.md** - standard invocation and acknowledgement handshake
+- **CONFORMANCE-CHECKLIST.md** - concise checklist for CLEAR-informed/aligned/conformant implementations
+- **CHANGELOG.md** - version history
+- **RELEASE-NOTES-v1.0.md** - v1.0 release notes
 - **ACKNOWLEDGEMENTS.md** - framework lineage and attribution
 - **LICENSE-DOCUMENTATION** - CC BY 4.0 for framework documentation
 - **LICENSE-CODE** - MIT for code, schemas, and reference implementations
@@ -32,6 +35,10 @@ Expected acknowledgement:
 > **CLEAR v1.0 acknowledged.** I will apply Context, Limits, Evidence, Action and Review, subject to my governing platform rules and available capabilities.
 
 See **INVOKE.md** for the full portable prompt.
+
+## Conformance
+
+Use **CONFORMANCE-CHECKLIST.md** to assess whether an implementation is CLEAR-informed, CLEAR-aligned, or CLEAR-conformant.
 
 ## Governing maxim
 
