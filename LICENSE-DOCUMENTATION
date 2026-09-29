@@ -1,48 +1,23 @@
-CLEAR - Context, Limits, Evidence, Action, Review
-
-Copyright © 2026 Geoff Webster
-
-The documentation, framework text, explanatory materials, guides, quick references, invocation instructions, diagrams, and other non-software content in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0), unless otherwise stated.
-
-You are free to:
-
-- Share - copy and redistribute the material in any medium or format.
-- Adapt - remix, transform, and build upon the material for any purpose, including commercially.
-
-Under the following terms:
-
-- Attribution - You must give appropriate credit, provide a reference or link to the licence, and indicate if changes were made.
-- You may provide attribution in any reasonable manner, but not in any way that suggests Geoff Webster or the CLEAR project endorses you or your use.
-- No additional restrictions - You may not apply legal terms or technological measures that legally restrict others from doing anything the licence permits.
-
-Recommended attribution:
-
-"Based on CLEAR - Context, Limits, Evidence, Action, Review, created by Geoff Webster, licensed under CC BY 4.0."
-
-For modified versions:
-
-"Adapted from CLEAR - Context, Limits, Evidence, Action, Review, created by Geoff Webster and licensed under CC BY 4.0. This version has been modified from the original."
-
-The full Creative Commons Attribution 4.0 International licence is available at:
+CLEAR 2.0 — License
+CLEAR 2.0 specification and documentation
+Copyright © 2026 Geoff Webster.
+Unless otherwise stated, the CLEAR 2.0 specification, Persistent Core, usage documentation, explanatory material and associated framework documentation are licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).
+Licence:
 https://creativecommons.org/licenses/by/4.0/
-
-The legal code is available at:
+Under CC BY 4.0 you may share and adapt this material for any purpose, including commercial purposes, provided that appropriate attribution is given, a link to the licence is provided, and changes are indicated.
+Suggested attribution:
+“CLEAR — Context · Limits · Evidence · Action · Review. Created by Geoff Webster. Licensed under CC BY 4.0.”
+Adaptations should not imply endorsement by Geoff Webster or represent a modified implementation as the original CLEAR specification.
+CLEAR conformance
+Permission to use or adapt CLEAR does not by itself establish CLEAR conformance.
+A product, model, service or implementation describing itself as CLEAR-P, CLEAR-V or CLEAR-C should satisfy the applicable requirements of the corresponding published CLEAR specification and should not claim a stronger implementation or review level than it actually provides.
+Names and descriptive references
+This licence permits use of the CLEAR framework name when accurately identifying the framework, an implementation, an adaptation, or compatibility with it. It does not grant permission to imply sponsorship, certification or endorsement where none exists.
+Software
+Software, test harnesses, reference implementations or other source code distributed alongside CLEAR may be released under a separate software licence. Where a specific source-code file or repository contains its own licence notice, that notice governs that software.
+No warranty
+CLEAR is provided as-is, without warranties or guarantees. Use of CLEAR does not guarantee factual correctness, safety, security, regulatory compliance, legal compliance or prevention of AI failure.
+The full legal terms of CC BY 4.0 are provided by Creative Commons at:
 https://creativecommons.org/licenses/by/4.0/legalcode
-
-## Scope
-
-This licence applies to documentation and framework materials, including README.md, CLEAR-v1.0.md, QUICK-REFERENCE.md, INVOKE.md, ACKNOWLEDGEMENTS.md, explanatory diagrams, and written examples and guidance.
-
-Software source code, executable examples, machine-readable schemas, libraries, scripts, and reference implementations are not covered by this licence. Those materials are licensed separately under the MIT License as described in LICENSE-CODE.
-
-## Trademarks and endorsement
-
-This licence does not grant permission to imply endorsement by Geoff Webster or the CLEAR project.
-
-Use of the name "CLEAR" to truthfully describe compatibility with, implementation of, or derivation from the CLEAR framework is permitted, provided such use does not imply endorsement or official status where none exists.
-
-## AI acknowledgement
-
-The CLEAR framework may request that an AI system acknowledge when it is operating under CLEAR and identify the version being applied.
-
-This acknowledgement requirement is part of the CLEAR operating protocol and is distinct from the copyright licence. Whether an AI system can comply with that protocol depends on the system's capabilities, instructions, and governing platform rules.
+Version
+This licensing notice accompanies CLEAR 2.0 and may be retained with later compatible releases unless replaced by a later published licensing notice.
