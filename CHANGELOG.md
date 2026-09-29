@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.0.0] - 2026-09-29
+
+### Added and changed
+- Promoted the RC3 specification to **CLEAR 2.0**.
+- Added nine protected invariants, including I9: trust cannot be laundered.
+- Added L0/L1/L2 runtime control levels and CLEAR-P/CLEAR-V/CLEAR-C implementation classes.
+- Added explicit evidence, authority and action state models.
+- Added parameter-, principal-, scope- and validity-bound authorization.
+- Added reversibility, blast-radius and recoverability controls.
+- Added persistent-memory provenance, integrity, expiry and scope requirements.
+- Added runtime conformance degradation requirements.
+- Added CLEARBench 1.0 with a frozen 40-scenario RC3 hardening suite, first R1 dry-run results, and explicit further-validation requirements.
+- Archived the complete CLEAR 1.0 documentation under `archive/CLEAR-1.0/`.
+
 All notable changes to CLEAR will be recorded here.
 
 ## [1.0.0] - 2026-09-28
